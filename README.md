@@ -2,15 +2,14 @@
 
 <div align="center">	
 👊Time is money, so no one can put back the clock👊</div>
-
+<br/>
 <div align="center">
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/meme1.jpg' height='300' width='500'/>
 </div>
 
 💡 &nbsp;passionate about learning new technologies.<br/><br/>
-🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.<br/><br/>
-✍️ &nbsp;In my free time, I try to find something interested to explore.<br/><br/>
-📌 &nbsp;My target is to learn ***Rust*** and ***NextJS*** before the end of 2022. Let's connect.<br/>
+🎓 &nbsp;likes to make apps but only knows how to do web.<br/><br/>
+✍️ &nbsp;loves learning English and is improving every day.<br/><br/>
 <br/>
 
 ## 🧬 Languages
@@ -18,10 +17,37 @@
 <br/>
 
 <div align="center">
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/rust.jpeg' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(7).png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(3).png' height='60'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(4).png' height='60'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(3).png' height='60'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+## 🧬 Framework,Tool,Libraries
+
+<br/>
+
+<div align="center">
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/framework-expo.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/images.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(1).png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/react-native.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+## 🧬 Database
+
+<br/>
+<div align="center">
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/images.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" width="1100"/>
+</p>
