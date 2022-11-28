@@ -18,9 +18,9 @@
 
 <div align="center">
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(7).png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(3).png' height='60'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(4).png' height='60'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
