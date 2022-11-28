@@ -4,7 +4,7 @@
 👊Time is money, so no one can put back the clock👊</div>
 
 <div align="center">
-	<img src = 'https://github.com/Thanh-Minh/assets/meme1.jpg' height='300' width='500'/>
+	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/meme1.jpg' height='300' width='500'/>
 </div>
 
 💡 &nbsp;passionate about learning new technologies.<br/><br/>
