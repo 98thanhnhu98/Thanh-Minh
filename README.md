@@ -26,7 +26,7 @@
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(4).png' height='60'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## 🧬 Framework,Tool,Libraries
+## 📔 Framework,Tool,Libraries
 
 <br/>
 
@@ -40,7 +40,7 @@
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/git.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## 🧬 Database
+## 📊 Database
 
 <br/>
 <div align="center">
