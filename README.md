@@ -1,7 +1,4 @@
- :facepunch: Thanh-Minh :facepunch:
----------------
-| welcome to my profile :v: |
-
-
-> hello
+| :facepunch: Thanh-Minh :facepunch: |
+|               :----:               |
+|
 
