@@ -31,7 +31,6 @@
 <br/>
 
 <div align="center">
-	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/framework-expo.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/images.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/open_graph_image.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/98thanhnhu98/Thanh-Minh/blob/main/assets/pngwing.com%20(1).png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
